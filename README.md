@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Building my coding skills and learning AI basics<br>👯 I'm looking to collaborate on: Student Projects and Open Source<br>🤝 I'm looking for help with: Improving my programming skills<br>🌱 I'm currently learning: Python, HTML, CSS, and JavaScript<br>💬 Ask me about: Technology, Gaming, and Computers<br>⚡ Fun fact: I'm a Tech Enthusiast and Gamer 🎮💻
+🔭 I'm currently working on: Building my coding skills and learning AI basics<br>👯 I'm looking to collaborate on: Student Projects and Open Source<br>🤝 I'm looking for help with: Improving my programming skills<br>🌱 I'm currently learning: Python, HTML, CSS, and JavaScript<br>💬 Ask me about: Technology, Gaming, Photography, Video Editing, and Creative Content<br>⚡ Fun fact: I'm a Tech Enthusiast and Gamer 🎮💻
 
 
 ## 🌐 Socials:
